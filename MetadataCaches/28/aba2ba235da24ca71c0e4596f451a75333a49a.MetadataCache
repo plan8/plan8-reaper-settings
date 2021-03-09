@@ -1,0 +1,16 @@
+C10010
+F BRS_Leaves_Sml_Leaf_Wind_Mvs_Rustles_Snaps_2.wav 14017328 0 1542099480
+D g Weather c "Leaves,Wind Moves,Small Leaf,Rustles,Snaps" d "Leaves,Wind Moves,Small Leaf,Rustles,Snaps"
+F BRS_Leaves_Tall_Grass_Wind_Mvs_Rustles_2.wav 28062622 0 1604309141
+D a "J.R. Fountain" g Weather c "Leaves,Tall Grass,Wind Moves,Rustles 2" d "Leaves,Tall Grass,Wind Moves,Rustles 2"
+F BRS_Rain_Street_City_Splatty_4.wav 10294088 0 1542099551
+D t "Rain,Street,City,Splatty 4" a "J.R. Fountain" g Weather c "Rain,Street,City,Splatty 4"
+D d "Rain,Street,City,Splatty 4"
+F BRS_Rain_Tarp_in_Forest_Med_1.wav 20842918 0 1542100278
+D a "Big Room Sound" g Weather c "Rain,Tarp in Forest,Med 1" d "Rain,Tarp in Forest,Med 1"
+F BRS_Thunder_Clap_Med_No_Rain_1.wav 2662770 0 1542099624
+D a "Big Room Sound" g Weather c "Thunder,Clap,Med,No Rain 1" d "Thunder,Clap,Med,No Rain 1"
+F BRS_Wind_Attic_Space_Gusts_Lite_2.wav 30695470 0 1579788536
+D a "J.R. Fountain" g Weather c "Wind,Interior Attic Space,Gusts,Rattles,Lite 2" d "Wind,Interior Attic Space,Gusts,Rattles,Lite 2"
+F BRS_Wind_Heavy_Dry_Leaves_2.wav 37597590 0 1542099592
+D a "Big Room Sound" g Weather c "Wind,Heavy,Dry Leaves 2" d "Wind,Heavy,Dry Leaves 2"

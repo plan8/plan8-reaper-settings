@@ -1,0 +1,29 @@
+C10010
+F RadioSignalDistort_BW.44395.wav 6093996 0 1548689868
+D d "Radio Communication Signal, Distorted Beeps"
+F RadioStatic_BW.45693.wav 23038956 0 1542099902
+D d "Radio Static, No Signal"
+F RadioVoicesDistort_BW.44415.wav 69527244 0 1548938200
+D d "Radio Communication Signal, Distorted Voices"
+F RobotVocalBeeps_HV.676.wav 540844 0 1549360227
+D d "Robot Vocal Beeps"
+F RobotVocalBeeps_HV.677.wav 719260 0 1549360057
+D d "Robot Vocal Beeps"
+F RobotVocalBeeps_HV.679.wav 1220924 0 1549360201
+D d "Robot Vocal Beeps, Malfunction"
+F RocketLaunch_S011SF.610.wav 1845532 0 1566466244
+D d "Rocket, Launch, Lift, Off, Flare, Science, Fiction"
+F ScannerBeamShort_S011SF.659.wav 313516 0 1604308879
+D d "Scanner, Beam, Short, Science, Fiction"
+F SciFiBeepButton_S08SF.139.wav 122812 0 1553776938
+D d "Beep, Button, Electronic, Science, Fiction"
+F SciFiBuzzHum_S08SF.211.wav 69293164 0 1547736514
+D d "Buzz, Hum, Flutter, High, Pitch, Modulation, Science, Fiction"
+F SciFiEnginePower_S08SF.304.wav 4567532 0 1542099652
+D d "Engine, Power, Up, Science, Fiction"
+F SciFiRocket_S08SF.441.wav 50006844 0 1549360530
+D d "Rocket, Booster, Space, Shuttle, Rumble, Crackle, Loop, Science, Fiction"
+F SciFiServoMotor_S08SF.474.wav 806172 0 1604308995
+D d "Servo, Motor, Small, Robot, Mechanical, Movement, Science, Fiction"
+F SciFiStaticRadio_S08SF.540.wav 64359356 0 1542099905
+D d "Static, Radio, Hum, Buzz, High, Pitch, Whine, Science, Fiction"

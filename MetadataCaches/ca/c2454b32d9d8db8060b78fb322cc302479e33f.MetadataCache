@@ -1,0 +1,33 @@
+C10010
+F BreathingWheezing_SFXB.1986.wav 6182684 0 1542100652
+D d "Male, Breathing, Wheezing"
+F BreathInhaleExhale_SFXB.1_1.wav 1295116 0 1542099703
+D d "Male, Breath, Inhale, Exhale, Nose"
+F DrinkSipSwallow_SFXB.2027.wav 1602460 0 1542099701
+D d "Drink, Sip, Swallow, Cup"
+F HumanBlowHands_S08HU.56.wav 728236 0 1585728284
+D d "Blow, On, Hands, Warm, Up"
+F HumanCough_S08HU.110.wav 549948 0 1604308950
+D d "Cough, Element, Female, Young, Girl"
+F HumanCough_S08HU.122.wav 691404 0 1604308950
+D d "Cough, Male, Six, Year, Old, Boy"
+F HumanDrinkWater_S08HU.219.wav 1878684 0 1550062683
+D d "Drink, Water, From, Glass"
+F HumanInhale_S08HU.301.wav 313260 0 1554883363
+D d "Inhale, Fast, Element, Male, 25, Year, Old"
+F HumanKiss_S08HU.312.wav 346908 0 1571917756
+D d "Kiss, Male, Twelve, Year, Old, Boy"
+F HumanSlurp_S08HU.461.wav 1281452 0 1604308907
+D d Slurp
+F HumanSlurp_S08HU.468.wav 531036 0 1604308907
+D d "Slurp, Short"
+F HumanSlurp_S08HU.469.wav 310172 0 1604308906
+D d "Slurp, Short, Male, Twelve, Year, Old, Boy"
+F HumanThroatClear_S08HU.502.wav 581004 0 1604308950
+D d "Throat, Clear, Element, Female, Young, Girl"
+F HumanThroatClear_S08HU.511.wav 399532 0 1542099700
+D d "Throat, Clear, Short, Male, Fifty, Year, Old"
+F MouthPop_AP1.1188.wav 54380 0 1571917596
+D d "Mouth, Pop"
+F SlurpSoup_BW.61644.wav 325292 0 1604308907
+D d "Slurp Soup"

@@ -1,0 +1,25 @@
+C10010
+F BRS_Fire_Campfire_Ashes_Sizzle_Snaps.wav 21150652 0 1599575209
+D t "Fire,Campfire,Ashes Sizzle,Snaps" a "J.R. Fountain" g Fire c "Fire,Campfire,Ashes Sizzle,After dousing of water,Snaps"
+D d "Fire,Campfire,Ashes Sizzle,After dousing of water,Snaps"
+F BRS_Fire_Campfire_Busy_Crackles_Snaps_2.wav 23168832 0 1599576357
+D t "Fire,Campfire,Busy,Crackles,Snaps 2" a "J.R. Fountain" g Fire c "Fire,Campfire,Busy,Crackles,Snaps 2"
+D d "Fire,Campfire,Busy,Crackles,Snaps 2"
+F BRS_Fire_Campfire_Lite_Crackles_Snaps_2.wav 8951608 0 1599575201
+D t "Fire,Campfire,Lite,Crackles,Snaps 2" a "J.R. Fountain" g Fire c "Fire,Campfire,Lite,Crackles,Snaps 2"
+D d "Fire,Campfire,Lite,Crackles,Snaps 2"
+F BRS_Fire_Campfire_Med_Crackles_Snaps.wav 27300616 0 1599576352
+D t Fire,Campfire,Med,Crackles,Snaps a "J.R. Fountain" g Fire c Fire,Campfire,Med,Crackles,Snaps
+D d Fire,Campfire,Med,Crackles,Snaps
+F BRS_Fire_Torch_Whoosh_Med_Burst_Lite.wav 267136 0 1603089320
+D t Fire,Torch,Whoosh,Med,Burst,Lite a "J.R. Fountain" g Fire c Fire,Torch,Whoosh,Med,Burst,Lite
+D d Fire,Torch,Whoosh,Med,Burst,Lite
+F BRS_Fireball_Whoosh_Burst_Huge_Phasey_1.wav 890640 0 1603089318
+D t "Fireball,Whoosh,Burst,Huge,Phasey 1" a "J.R. Fountain" g Fire c "Fireball,Whoosh,Burst,Huge,Phasey 1"
+D d "Fireball,Whoosh,Burst,Huge,Phasey 1"
+F BRS_Fireball_Whoosh_Flamey_Huge_3.wav 838298 0 1603090031
+D t "Fireball,Whoosh,Flamey,Huge 3" a "J.R. Fountain" g Fire c "Fireball,Whoosh,Flamey,Huge 3"
+D d "Fireball,Whoosh,Flamey,Huge 3"
+F BRS_Lighter_Bic_Handling-Mvs_Clicks_Very_Close.wav 1222674 0 1604308986
+D t Lighter,Bic,Handling-Mvs,Clicks,CU a "J.R. Fountain" g Fire c "Lighter,Bic,Handling-Moves,Clicks,Very Close"
+D d "Lighter,Bic,Handling-Moves,Clicks,Very Close"

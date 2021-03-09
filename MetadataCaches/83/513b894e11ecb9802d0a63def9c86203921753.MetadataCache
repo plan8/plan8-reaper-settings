@@ -1,0 +1,14 @@
+C10010
+F BRS_Impact_Metal_Appliance_Slam_Gritty.wav 709498 0 1542101077
+D a "Big Room Sound" g Crashes-Impacts c Impact,Metal,Appliance,Slam,Gritty d Impact,Metal,Appliance,Slam,Gritty
+F BRS_Impact_Metal_Kickbooster_Solid_1.wav 221168 0 1542100690
+D t "Impact,Metal,Kickbooster,Solid 1" a "J.R. Fountain" g Crashes-Impacts c "Impact,Metal,Kickbooster,Solid 1"
+D d "Impact,Metal,Kickbooster,Solid 1"
+F BRS_Impact_Wood_Thud_Snap5.wav 309894 0 1604308869
+D a "Big Room Sound" g Crashes-Impacts c "Impact,Wood,Thud,Snap 5" d "Impact,Wood,Thud,Snap 5"
+F BRS_Twig_Snaps_Leaf_Rustles_4.wav 11482918 0 1554883359
+D a "Big Room Sound" g Crashes-Impacts c "Twig Snaps,Leaf Rustles 4" d "Twig Snaps,Leaf Rustles 4"
+F BRS_Twig_Snaps_Leaf_Rustles_7.wav 5873438 0 1604308996
+D a "Big Room Sound" g Crashes-Impacts c "Twig Snaps,Leaf Rustles 7" d "Twig Snaps,Leaf Rustles 7"
+F BRS_Twigs_Bend_Snap_Double.wav 574146 0 1554883356
+D a "Big Room Sound" g Crashes-Impacts c Twigs,Bend,Snap,Double d Twigs,Bend,Snap,Double

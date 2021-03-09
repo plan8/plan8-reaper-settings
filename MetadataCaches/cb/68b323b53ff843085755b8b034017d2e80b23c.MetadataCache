@@ -1,0 +1,13 @@
+C10010
+F BRS_Roomtone_Bedroom_Small_Quiet.wav 23377930 0 1601476697
+D t Roomtone,Bedroom,Small,Quiet a "J.R. Fountain" g Backgrounds c Roomtone,Bedroom,Small,Quiet
+D d Roomtone,Bedroom,Small,Quiet
+F BRS_Roomtone_Computer_Fans.wav 6521422 0 1604308952
+D a "Big Room Sound" g Backgrounds c "Roomtone,Office,Computer Hums" d "Roomtone,Office,Computer Hums"
+F BRS_Roomtone_Fans_Lite.wav 13098602 0 1604308953
+D a "Big Room Sound" g Backgrounds c Roomtone,Fans,Lite,Neutral d Roomtone,Fans,Lite,Neutral
+F BRS_Roomtone_Office_Computers.wav 21506766 0 1568879538
+D a "Big Room Sound" g Backgrounds c "Roomtone,Office,Computer Fans" d "Roomtone,Office,Computer Fans"
+F BRS_Roomtone_Townhouse_Main_Floor.wav 27512688 0 1570015312
+D t "Roomtone,Townhouse,Main Floor" a "J.R. Fountain" g Backgrounds c "Roomtone,Townhouse,Main Floor"
+D d "Roomtone,Townhouse,Main Floor"

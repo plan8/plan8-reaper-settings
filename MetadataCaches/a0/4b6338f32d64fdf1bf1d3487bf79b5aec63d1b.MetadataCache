@@ -1,0 +1,9 @@
+C10010
+F PL_PTRP2_04_Slapper_110_Cmin_ClapsLoop.wav 4630796 0 1542101791
+D p "110 - 32 beats"
+F PL_PTRP2_04_Slapper_110_Cmin_DeepPluck.wav 4630796 0 1542101793
+D p "110 - 32 beats" k C
+F PL_PTRP2_04_Slapper_110_Cmin_RevPad3.wav 4630796 0 1542101792
+D p "110 - 32 beats" k C
+F PL_PTRP2_04_Slapper_110_Cmin_Woo_.wav 2032904 0 1542100278
+D p "110 - 14 beats" k C

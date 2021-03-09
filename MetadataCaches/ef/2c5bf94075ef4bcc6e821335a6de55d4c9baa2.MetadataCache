@@ -1,0 +1,8 @@
+C10010
+F BRS_Foley_Slurp_Glass_Water_1.wav 288526 0 1604308906
+D a "Big Room Sound" g Human c "Foley,Slurp,Straw,Glass,Water,Almost Empty" d "Foley,Slurp,Straw,Glass,Water,Almost Empty"
+F BRS_Human_F_Breaths_Exercise_Cool_Down_4.wav 1070422 0 1549375839
+D a "J.R. Fountain" g Human c "Human,Female,Breaths,Exercise,Cool Down 4" d "Human,Female,Breaths,Exercise,Cool Down 4"
+F BRS_Voice_Male_Breaths_Fast_Exerting_Steady.wav 663576 0 1554883368
+D t Male,Breaths,Fast,Exerting,Steady a "J.R. Fountain" g Human c Voice,Male,Breaths,Fast,Exerting,Steady
+D d Voice,Male,Breaths,Fast,Exerting,Steady

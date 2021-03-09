@@ -1,0 +1,13 @@
+C10010
+F AlarmClockWind_BW.13841.wav 350156 0 1542100663
+D d "Alarm Clock Wind"
+F BombTimerClockCount_HV.78.wav 5770684 0 1542100663
+D d "Bomb Timer Clock Countdown, Ticking, Ten Seconds"
+F ClockTicking_S011TE.105.wav 34681660 0 1542100971
+D d "Clock, Ticking, Counter, Tic, Toc, Timer, Loop"
+F ClockTicking_S011TE.106.wav 34549500 0 1542100667
+D d "Clock, Ticking, Fast, Counter, Tic, Toc, Timer, Loop"
+F ClockTickTock_SFXB.4078.wav 34610924 0 1543929917
+D d "Clock, Tick, Tock"
+F TimerClock_AP1.1323.wav 1063548 0 1542099422
+D d "Timer, Clock, Loop"

@@ -1,0 +1,25 @@
+C10010
+F BRS_Activity_Feet_Wood_Busy.wav 9326138 0 1542099859
+D a "Big Room Sound" g Human c Activity,Feet,Wood,Busy,Roomy d Activity,Feet,Wood,Busy,Roomy
+F BRS_Activity_Thru_Ceiling_Feet_1.wav 43019914 0 1542099644
+D a "Big Room Sound" g Human c "Activity,Thru Ceiling,Feet,Squeaky Floors 1" d "Activity,Thru Ceiling,Feet,Squeaky Floors 1"
+F BRS_Feet_Grass_Run_Circles_1.wav 1173442 0 1542099704
+D t "Feet,Grass,Run,Circles 1" a "J.R. Fountain" g Human c "Feet,Grass,Run,Circles 1"
+D d "Feet,Grass,Run,Circles 1"
+F BRS_Feet_Grass_Run_Steady_CU_2.wav 1233388 0 1548687903
+D t "Feet,Grass,Run,Steady,CU 2" a "J.R. Fountain" g Human c "Feet,Grass,Run,Steady,CU 2"
+D d "Feet,Grass,Run,Steady,CU 2"
+F BRS_Feet_Gravel_Wood_Sandals_Mvs.wav 7415474 0 1601628754
+D a "Big Room Sound" g Human c "Footsteps,Gravel,Wood Sandals,Moves" d "Footsteps,Gravel,Wood Sandals,Moves"
+F BRS_Feet_Run_By_Snowpants_w-Sled.wav 5083802 0 1604309099
+D a "Big Room Sound" g Human c Footsteps,Run,By,Snowpants,w-Sled d Footsteps,Run,By,Snowpants,w-Sled
+F BRS_Feet_Walk_Away_Snowpants_1.wav 4205178 0 1603181796
+D a "Big Room Sound" g Human c "Footsteps,Walk,Away,Snowpants 1" d "Footsteps,Walk,Away,Snowpants 1"
+F BRS_Feet_Walk_Away_Snowpants_2.wav 2177658 0 1603181768
+D a "Big Room Sound" g Human c "Footsteps,Walk,Away,Snowpants 2" d "Footsteps,Walk,Away,Snowpants 2"
+F BRS_Feet_Walk_Wood_Casual_Shoes_1.wav 27110070 0 1603181826
+D a "Big Room Sound" g Human c "Footsteps,Walk,Wood,Casual Shoes 1" d "Footsteps,Walk,Wood,Casual Shoes 1"
+F BRS_Feet_Walk_Wood_Dress_Shoes.wav 36279946 0 1603181803
+D a "Big Room Sound" g Human c "Footsteps,Walk,Wood,Dress Shoes" d "Footsteps,Walk,Wood,Dress Shoes"
+F BRS_Footsteps_Stairs_Wood_Squeak.wav 6096078 0 1542099859
+D a "Big Room Sound" g Human c Footsteps,Stairs,Wood,Squeak d Footsteps,Stairs,Wood,Squeak

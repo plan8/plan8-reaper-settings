@@ -1,0 +1,15 @@
+C10010
+F DD_HornSct_130_Dm_Lp8.wav 327372 0 1542100981
+D p "130 - 4 beats" k D
+F DD_HornSct_130_Dm_Lp9.wav 327264 0 1542100983
+D p "130 - 4 beats" k D
+F DD_HornSct_130_Fm_Lp12.wav 327348 0 1542101646
+D p "130 - 4 beats" k F
+F DD_HornSct_140_Dm_Lp16.wav 607540 0 1542100982
+D p "140 - 8 beats" k D
+F DD_HornSct_94_A_Lp2.wav 904848 0 1542100982
+D p "94 - 8 beats" k A
+F DD_HornSct_94_A_Lp3.wav 1827472 0 1542100983
+D y 2008
+F DD_HornSct_94_F_Lp4.wav 1807716 0 1542100983
+D p "94 - 16 beats" k F

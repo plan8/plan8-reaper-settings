@@ -1,0 +1,7 @@
+C10010
+F HeartBeatNormal_S08ER.241.wav 34693964 0 1542099816
+D d "Heartbeat, Normal, Speed, Human, Hospital, Loop"
+F HeartBeatVery_S08ER.243.wav 36145868 0 1542099826
+D d "Heartbeat, Very, Fast, Speed, Human, Hospital, Loop"
+F HeartMonitorVital_S08ER.247.wav 17179468 0 1604309097
+D d "Heart Monitor, Vitals, Constant, Beep, Medium, Rate, Loop"

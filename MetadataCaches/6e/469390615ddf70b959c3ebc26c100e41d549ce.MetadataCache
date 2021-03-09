@@ -1,0 +1,7 @@
+C10010
+F BRS_Fridge_Door_Close_Hard_01.wav 374574 0 1556028516
+D a "Big Room Sound" g Household c "dSCENE=  dTAKE=  dTAPE=  dNOTE=Fridge,Door,Close,Hard 01  " d "dSCENE=  dTAKE=  dTAPE=  dNOTE=Fridge,Door,Close,Hard 01  "
+F BRS_Fridge_Door_Close_Hard_02.wav 454194 0 1542099646
+D a "Big Room Sound" g Household c "Fridge,Door,Close,Hard 02" d "Fridge,Door,Close,Hard 02"
+F BRS_Fridge_Door_Close_Hard_03.wav 395746 0 1604308864
+D a "Big Room Sound" g Household c "Fridge,Door,Close,Hard 03" d "Fridge,Door,Close,Hard 03"

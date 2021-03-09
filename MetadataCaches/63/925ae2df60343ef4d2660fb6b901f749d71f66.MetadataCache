@@ -1,0 +1,25 @@
+C10010
+F BRS_Camera_Canon_5D_Switch_Shutter_Dial_9.wav 99902 0 1604308878
+D t "Camera,Canon 5D,Switch,Shutter Dial 9" a "J.R. Fountain" g Mechanical c "Camera,Canon 5D,Switch,Shutter Dial 9"
+D d "Camera,Canon 5D,Switch,Shutter Dial 9"
+F BRS_Camera_Canon_T2i_Servo_Auto_Focus_Far_In-Out_1.wav 247586 0 1554883368
+D t "Camera,Canon T2i,Servo,Auto Focus,Far,In-Out 1" a "J.R. Fountain" g Mechanical c "Camera,Canon T2i,Servo,Auto Focus,Far,In-Out 1"
+D d "Camera,Canon T2i,Servo,Auto Focus,Far,In-Out 1"
+F BRS_Camera_Canon_T2i_Servo_Auto_Focus_Far_In-Out_4.wav 255266 0 1547736479
+D t "Camera,Canon T2i,Servo,Auto Focus,Far,In-Out 4" a "J.R. Fountain" g Mechanical c "Camera,Canon T2i,Servo,Auto Focus,Far,In-Out 4"
+D d "Camera,Canon T2i,Servo,Auto Focus,Far,In-Out 4"
+F BRS_Camera_Canon_T2i_Servo_Manual_Focus_Far_Slow_2.wav 219938 0 1554923362
+D t "Camera,Canon T2i,Servo,Manual Focus,Far,Slow 2" a "J.R. Fountain" g Mechanical c "Camera,Canon T2i,Servo,Manual Focus,Far,Slow 2"
+D d "Camera,Canon T2i,Servo,Manual Focus,Far,Slow 2"
+F BRS_Camera_Canon_T2i_Switch_Menu_Wheel_3.wav 130616 0 1554883302
+D t "Camera,Canon T2i,Switch,Menu Wheel 3" a "J.R. Fountain" g Mechanical c "Camera,Canon T2i,Switch,Menu Wheel 3"
+D d "Camera,Canon T2i,Switch,Menu Wheel 3"
+F BRS_Camera_D50_Focus_Beep_3.wav 150076 0 1554883302
+D a "Big Room Sound" g Mechanical c "Camera,DSLR,Nikon D50,Auto Focus,Beep 3" d "Camera,DSLR,Nikon D50,Auto Focus,Beep 3"
+F BRS_Camera_Nikon_D80_Flash_Up-Down_Far_1.wav 290184 0 1604309096
+D t "Camera,Nikon D80,Flash,Up-Down,Far 1" a "J.R. Fountain" g Mechanical c "Camera,Nikon D80,Flash,Up-Down,Far 1"
+D d "Camera,Nikon D80,Flash,Up-Down,Far 1"
+F BRS_Projector_16mm_BellHowell_3.wav 3394260 0 1547736404
+D a "Big Room Sound" g Mechanical c "Projector,16mm Film,Bell & Howell,On-Run-Off 3" d "Projector,16mm Film,Bell & Howell,On-Run-Off 3"
+F BRS_Tape_MiniDV_Handling_Mvs_3.wav 801536 0 1547737919
+D a "Big Room Sound" g Mechanical c "Video Tape,MiniDV,Small,Handling,Moves 3" d "Video Tape,MiniDV,Small,Handling,Moves 3"

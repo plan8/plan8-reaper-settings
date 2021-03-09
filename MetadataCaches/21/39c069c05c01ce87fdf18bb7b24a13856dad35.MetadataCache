@@ -1,0 +1,35 @@
+C10010
+F BRS_Car_Berretta_Start_Awy_Fst6.wav 11056128 0 1604309107
+D a "Big Room Sound" g Vehicles c "Car,1990 Chevrolet Berretta,Start,Away,Fast 6" d "Car,1990 Chevrolet Berretta,Start,Away,Fast 6"
+F BRS_Car_Golf_Trunk_Air_Open_2.wav 976776 0 1548247016
+D a "Big Room Sound" g Vehicles c "Car,2003 Volkswagon Golf,Trunk,Air,Open 2" d "Car,2003 Volkswagon Golf,Trunk,Air,Open 2"
+F BRS_Car_Golf_Wipers_Slow_Dry.wav 4180868 0 1542099478
+D a "Big Room Sound" g Vehicles c "Car,2003 Volkswagon Golf,Wipers,Slow,Dry" d "Car,2003 Volkswagon Golf,Wipers,Slow,Dry"
+F BRS_Car_Highlander_Trunk_Air_Hiss_2.wav 789748 0 1548247001
+D t "Highlander,Trunk,Air Hiss 2" a "J.R. Fountain" g Vehicles c "2005 Toyota Highlander V6,Trunk,Air Hiss 2"
+D d "2005 Toyota Highlander V6,Trunk,Air Hiss 2"
+F BRS_Car_Highlander_Trunk_Open_1.wav 832672 0 1548246991
+D t "Highlander,Trunk,Open 1" a "J.R. Fountain" g Vehicles c "2005 Toyota Highlander V6,Trunk,Open 1"
+D d "2005 Toyota Highlander V6,Trunk,Open 1"
+F BRS_Car_Highlander_Up_Stop_Away_Dirt_Slow_2.wav 9145748 0 1576840893
+D t "Highlander,Up,Stop,Away,Dirt,Slow 2" a "J.R. Fountain" g Vehicles c "2005 Toyota Highlander V6,Up,Stop,Away,Dirt,Slow 2"
+D d "2005 Toyota Highlander V6,Up,Stop,Away,Dirt,Slow 2"
+F BRS_Car_SmartCar_OB_Revs_1.wav 4731040 0 1542099904
+D a "J.R. Fountain" g Vehicles c "Car,2005 SmartCar Fortwo,OB,Revs 1" d "Car,2005 SmartCar Fortwo,OB,Revs 1"
+F BRS_Car_Tire_OB_Gravel-Dirt_Roll_Fast_Skid_3.wav 3198060 0 1542099463
+D t "Car,Tire,OB,Gravel-Dirt,Roll,Fast,Skid 3" a "J.R. Fountain" g Vehicles c "Car,Tire,Onboard,Gravel-Dirt,Roll,Fast,Skid 3"
+D d "Car,Tire,Onboard,Gravel-Dirt,Roll,Fast,Skid 3"
+F BRS_Car_Tire_OB_Gravel-Dirt_Roll_Fast_Skid_4.wav 3471468 0 1542099461
+D t "Car,Tire,OB,Gravel-Dirt,Roll,Fast,Skid 4" a "J.R. Fountain" g Vehicles c "Car,Tire,Onboard,Gravel-Dirt,Roll,Fast,Skid 4"
+D d "Car,Tire,Onboard,Gravel-Dirt,Roll,Fast,Skid 4"
+F BRS_Car_VW_Golf_Horn_Long_2.wav 678772 0 1565091419
+D a "Big Room Sound" g Vehicles c "Car,2003 Volkswagon Golf,Horn,Long 2" d "Car,2003 Volkswagon Golf,Horn,Long 2"
+F BRS_Car_VW_Golf_Horn_Long_3.wav 881524 0 1565089747
+D a "Big Room Sound" g Vehicles c "Car,2003 Volkswagon Golf,Horn,Long 3" d "Car,2003 Volkswagon Golf,Horn,Long 3"
+F BRS_Car_VW_Golf_Up_Stop_Fst_1.wav 6472696 0 1576841026
+D a "Big Room Sound" g Vehicles c "Car,2003 Volkswagon Golf,Up,Stop,Fast 1" d "Car,2003 Volkswagon Golf,Up,Stop,Fast 1"
+F BRS_Siren_Firetruck_CU_Horn.wav 2169896 0 1542099559
+D a "Big Room Sound" g Vehicles c "Siren,Firetruck,Close Up,Horn" d "Siren,Firetruck,Close Up,Horn"
+F BRS_Siren_Police_Buzzer_Long_CU_1.wav 552890 0 1604308883
+D t "Siren,Police,Buzzer,Long,CU 1" a "J.R. Fountain" g Vehicles c "Siren,Police,Buzzer,Long,CU 1"
+D d "Siren,Police,Buzzer,Long,CU 1"

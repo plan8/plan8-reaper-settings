@@ -1,0 +1,9 @@
+C10010
+F BRS_Switch_DC3_Ground_Pwr_On.wav 162472 0 1554883316
+D a "Big Room Sound" g Mechanical c "Switch,Plane,DC3,Cockpit,Ground Power,On" d "Switch,Plane,DC3,Cockpit,Ground Power,On"
+F BRS_Switch_DC3_Small_2.wav 107016 0 1542100414
+D a "Big Room Sound" g Mechanical c "Switch,Plane,DC3,Cockpit,Plastic,Small 2" d "Switch,Plane,DC3,Cockpit,Plastic,Small 2"
+F BRS_Switch_DC3_Steering_08.wav 220800 0 1542100415
+D a "Big Room Sound" g Mechanical c "Switch,Plane,DC3,Cockpit,Plastic,Small,Steering 08" d "Switch,Plane,DC3,Cockpit,Plastic,Small,Steering 08"
+F BRS_Switch_Light_Small_Snap.wav 475548 0 1542099478
+D a "Big Room Sound" g Mechanical c Switch,Light,Small,Snap d Switch,Light,Small,Snap

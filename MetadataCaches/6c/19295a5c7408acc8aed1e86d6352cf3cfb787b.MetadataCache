@@ -1,0 +1,33 @@
+C10010
+F BRS_Underwater_Bob_UpDown.wav 1624598 0 1553871525
+D a "Big Room Sound" g Water c "Underwater,Bob Up-Down" d "Underwater,Bob Up-Down"
+F BRS_Underwater_Bubbles_2.wav 689290 0 1554883264
+D a "Big Room Sound" g Water c "dSCENE=  dTAKE=  dTAPE=  dNOTE=Underwater,Bubbles 2  " d "dSCENE=  dTAKE=  dTAPE=  dNOTE=Underwater,Bubbles 2  "
+F BRS_Underwater_Bubbles_Low.wav 1228126 0 1554883347
+D a "Big Room Sound" g Water c Underwater,Bubbles,Low d Underwater,Bubbles,Low
+F BRS_Underwater_Kicks_Whooshy_Med.wav 2818538 0 1590740525
+D a "Big Room Sound" g Water c "dSCENE=  dTAKE=  dTAPE=  dNOTE=Underwater,Kicks,Whooshy,Med  " d "dSCENE=  dTAKE=  dTAPE=  dNOTE=Underwater,Kicks,Whooshy,Med  "
+F BRS_Water_Flicks_Many_3.wav 2236142 0 1542100455
+D a "Big Room Sound" g Water c "Hand flicks water surface, skip style splash, med, series of 3" d "Hand flicks water surface, skip style splash, med, series of 3"
+F BRS_Water_Laps_Lake_Ontario.wav 41523634 0 1601629632
+D a "Big Room Sound" g Water c "Water,Laps,Lake Ontario" d "Water,Laps,Lake Ontario"
+F BRS_Water_Splash_CanBall_1.wav 1723158 0 1604309013
+D a "Big Room Sound" g Water c "Person jumping into outdoor pool doing a cannon ball, take 1" d "Person jumping into outdoor pool doing a cannon ball, take 1"
+F BRS_Water_Splash_CanBall_5.wav 2079510 0 1542099799
+D a "Big Room Sound" g Water c "Person jumping into outdoor pool doing a cannon ball, take 5" d "Person jumping into outdoor pool doing a cannon ball, take 5"
+F BRS_Water_Splash_Lunge_01.wav 1339142 0 1542100458
+D a "Big Room Sound" g Water c "Person lunging in the water of an outdoor pool, take 1" d "Person lunging in the water of an outdoor pool, take 1"
+F BRS_Water_Splash_Lunge_05.wav 1366790 0 1542099798
+D a "Big Room Sound" g Water c "Person lunging in the water of an outdoor pool, take 5" d "Person lunging in the water of an outdoor pool, take 5"
+F BRS_Water_Splash_Lunge_11.wav 1858314 0 1542100459
+D a "Big Room Sound" g Water c "Person lunging in the water of an outdoor pool, take 11" d "Person lunging in the water of an outdoor pool, take 11"
+F BRS_Water_Splash_Lunge_12.wav 2027274 0 1542099798
+D a "Big Room Sound" g Water c "Person lunging in the water of an outdoor pool, take 12" d "Person lunging in the water of an outdoor pool, take 12"
+F BRS_Water_Splash_Sml_Stone_1.wav 721750 0 1542100456
+D a "Big Room Sound" g Water c "Small rock or stone thrown into creek, light glug or bloopy splash, take 1" d "Small rock or stone thrown into creek, light glug or bloopy splash, take 1"
+F BRS_Water_Splash_Sml_Stone_3.wav 807766 0 1542100456
+D a "Big Room Sound" g Water c "Small rock or stone thrown into creek, light glug or bloopy splash, take 3" d "Small rock or stone thrown into creek, light glug or bloopy splash, take 3"
+F BRS_Water_Splashes_Hammer_Fast_Hard_5.wav 5142498 0 1542100461
+D a "Big Room Sound" g Water c "Throwing a hammer very hard into a creek, percussive splash, series of 10, take 5" d "Throwing a hammer very hard into a creek, percussive splash, series of 10, take 5"
+F BRS_Water_Swish_Emerge_14.wav 1489750 0 1542099799
+D a "Big Room Sound" g Water c "Person emerging out from under the water in an outdoor pool, take 14" d "Person emerging out from under the water in an outdoor pool, take 14"

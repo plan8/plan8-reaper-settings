@@ -1,0 +1,13 @@
+C10010
+F BRS_Hum_Fluorescent_Light.wav 19325468 0 1542099857
+D a "Big Room Sound" g Electrical c "Hum,Fluorescent Lights,Light Buzz" d "Hum,Fluorescent Lights,Light Buzz"
+F BRS_Hum_Light_60_Watt_Thin_2.wav 15937156 0 1542099857
+D a "Big Room Sound" g Electrical c "Hum,Light,60 Watt,Incandescent,Thin,Harsh" d "Hum,Light,60 Watt,Incandescent,Thin,Harsh"
+F BRS_Light_Hum_Street_Lamp_Lonely.wav 23715520 0 1570016485
+D t "Light,Hum,Street Lamp,Lonely" a "J.R. Fountain" g Electrical c "Light,Hum,Street Lamp,Lonely"
+D d "Light,Hum,Street Lamp,Lonely"
+F BRS_Sizzle_Iron_Electrical_Zap_2.wav 500640 0 1542100418
+D t "Sizzle,Iron,Electrical Zap 2" a "J.R. Fountain" g Electrical c "Sizzle,Iron,Electrical Zap 2"
+D d "Sizzle,Iron,Electrical Zap 2"
+F BRS_Static_Guitar_Plug_In-Out_Feedback.wav 4940084 0 1542099858
+D a "J.R. Fountain" g Communications c "Static,Guitar Plug,In-Out,Interference,Buzzes,Feedback" d "Static,Guitar Plug,In-Out,Interference,Buzzes,Feedback"

@@ -1,0 +1,17 @@
+C10010
+F SciFiWindGust_S08SF.1710.wav 6600844 0 1604308896
+D d "Wind, Gust, Synthesized, Science, Fiction"
+F ServoMotor_HV.732.wav 639068 0 1576670871
+D d "Servo Motor"
+F SpaceDoorClose_HV.753.wav 1230076 0 1576670823
+D d "Space Door Close, Pneumatics"
+F SpaceshipPassBy_S011SF.715.wav 2586908 0 1604309106
+D d "Spaceship, Pass, By, Small, Ship, Science, Fiction"
+F SubmarinePassBy_HV.798.wav 4432796 0 1576670862
+D d "Submarine Pass By, Fast, Propeller, Small Aquatic Vehicle"
+F SubmarineSteady_HV.804.wav 35288012 0 1576671926
+D d "Submarine, Steady Propeller, Small Aquatic Vehicle"
+F SuperheroTeleport_BW.46663.wav 412396 0 1576670837
+D d "Vanish Teleport Appear, Superhero"
+F VolcanoeLavaFlowSlow_HV.972.wav 37597644 0 1556797806
+D d "Volcano Lava Flow, Slow"

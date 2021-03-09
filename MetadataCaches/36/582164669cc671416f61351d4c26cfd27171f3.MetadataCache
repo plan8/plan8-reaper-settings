@@ -1,0 +1,13 @@
+C10010
+F CPCT_120_C_Swirl.wav 2123576 0 1542100655
+D p "120 - 16 beats" k C
+F CPCT_120_F_Chide.wav 4237112 0 1542100655
+D p "120 - 32 beats" k F
+F CPCT_140_F_Blade_01.wav 3633904 0 1542101354
+D p "140 - 32 beats" k F
+F CPCT_160_C_Saturn_01_Dry.wav 1590152 0 1542101533
+D p "160 - 16 beats" k C
+F CPCT_160_F_Eerie_Indi.wav 3177396 0 1542101723
+D p "160 - 32 beats" k F
+F CPCT_160_F_Pluck_Yeah.wav 1588936 0 1542101534
+D p "160 - 16 beats" k F

@@ -1,0 +1,25 @@
+C10010
+F CellPhoneBeeps_ZA01.148.wav 624268 0 1542099518
+D d "Cell, Phone, Beeps, Lose, Connection"
+F CellPhoneCall_BW.49605.wav 48853820 0 1542099525
+D d "Cell Phone Call Through Receiver, Bad Reception, Intermittent Voice"
+F CellPhoneDial_BW.49607.wav 92892 0 1565171244
+D d 'Cell Phone Dial "10" Ten, Speakerphone, Droid X'
+F CellPhoneDial_BW.49616.wav 80316 0 1565171249
+D d "Cell Phone Dial Pound, Speakerphone, Droid X"
+F CellPhoneRing_SFXB.4070.wav 7689772 0 1542099519
+D d "Cell, Phone, Ring"
+F CellPhoneRing_SFXB.4071.wav 18517676 0 1542099521
+D d "Cell, Phone, Ring, Through, Receiver"
+F CellPhoneVibrate_BWU.554.wav 6951484 0 1542099523
+D d "Cell Phone Vibrate In Hand, Droid 2, Loop"
+F CellPhoneVibrate_SFXB.4073.wav 5038588 0 1542099515
+D d "Cell, Phone, Vibrate, In, Hand"
+F CellRingtone_S08TE.425.wav 10097692 0 1542099515
+D d "Cell, Ringtone, Loop"
+F CellRingtone_S08TE.465.wav 10097692 0 1542099517
+D d "Cell, Ringtone, Loop"
+F CellRingtone_S08TE.468.wav 10097692 0 1542099517
+D d "Cell, Ringtone, Loop"
+F CellVibrate_S08TE.504.wav 8603020 0 1542099691
+D d "Cell, Telephone, Vibrate, Multiple"

@@ -1,0 +1,23 @@
+C10010
+F AppleKeyboard_S08TE.2.wav 3890412 0 1604309101
+D d "Apple, Keyboard, Computer"
+F AppleMouseClick_S08TE.18.wav 223948 0 1549016278
+D d "Apple, Mouse, Click, Computer"
+F ComputerKeyboard_SFXB.4079.wav 289308 0 1548691578
+D d "Computer, Keyboard, Enter, Button"
+F ComputerKeystroke_S011TE._1.wav 224700 0 1548679586
+D d "Computer, Keystroke, Single, Small, Terminal, Keypad, Vintage"
+F FloppyDiscInsert_SFXB.4101.wav 224444 0 1549441779
+D d "Floppy, Disc, Insert"
+F LaptopComputer_S08TE.824.wav 175116 0 1549009275
+D d "Laptop, Computer, Type, Single, Key, Enter, Hard"
+F MouseClick_SFXB.4113.wav 156684 0 1548691534
+D d "Mouse, Click, Computer"
+F MouseWheelMove_S011TE.211.wav 242812 0 1542981220
+D d "Mouse, Wheel, Movement, Wireless, Laptop, Mouse"
+F MouseWheelMove_S011TE.212.wav 153612 0 1549024059
+D d "Mouse, Wheel, Movement, Wireless, Laptop, Mouse"
+F MouseWheelMove_S011TE.213.wav 162844 0 1549024059
+D d "Mouse, Wheel, Movement, Wireless, Laptop, Mouse"
+F PcMouseClick_S08TE.978.wav 273228 0 1548691552
+D d "PC, Mouse, Double, Click, Computer"

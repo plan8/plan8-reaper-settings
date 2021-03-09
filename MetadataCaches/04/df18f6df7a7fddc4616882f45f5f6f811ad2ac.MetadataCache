@@ -1,0 +1,27 @@
+C10010
+F BRS_Chair_Wood_Slide_By_Smooth.wav 328632 0 1547049651
+D a "Big Room Sound" g Movement c "dSCENE=  dTAKE=  dTAPE=  dNOTE=Chair,Wood,Slide,By,Smooth  " d "dSCENE=  dTAKE=  dTAPE=  dNOTE=Chair,Wood,Slide,By,Smooth  "
+F BRS_Concrete_Distinct_Mvs_Adjust.wav 2134734 0 1554925590
+D a "Big Room Sound" g Movement c "Concrete,Stone,Distinct Moves,Adjust" d "Concrete,Stone,Distinct Moves,Adjust"
+F BRS_Dust_Debris_Falls_Gravel2.wav 662976 0 1542099481
+D a "Big Room Sound" g Movement c "Dust,Debris,Falls,Gravel,Wood Floor 8" d "Dust,Debris,Falls,Gravel,Wood Floor 8"
+F BRS_Dust_Debris_Falls_Gravel_5.wav 914882 0 1542099482
+D a "Big Room Sound" g Movement c "Dust,Debris,Falls,Gravel,Wood Floor 5" d "Dust,Debris,Falls,Gravel,Wood Floor 5"
+F BRS_Dust_Fall_Pebbles_Long.wav 684392 0 1604308912
+D a "Big Room Sound" g Movement c Dust,Debris,Fall,Pebbles,Long d Dust,Debris,Fall,Pebbles,Long
+F BRS_Foley_Duffle_Bag_Sack_Moves_Drops_2.wav 618670 0 1602851263
+D a "J.R. Fountain" g Human c "Foley,Duffle Bag,Sack,Moves,Drops 2" d "Foley,Duffle Bag,Sack,Moves,Drops 2"
+F BRS_Foley_Rustles_Fridge_Food_2.wav 5137654 0 1542099640
+D a "Big Room Sound" g Human c "Foley,Rustles,Fridge,Food,Bottle Moves,Shelf 2" d "Foley,Rustles,Fridge,Food,Bottle Moves,Shelf 2"
+F BRS_Meat_Mvs_Squish_Knead_Various.wav 4719656 0 1604309006
+D a "Big Room Sound" g Movement c Meat,Flesh,Moves,Squish,Knead,Various d Meat,Flesh,Moves,Squish,Knead,Various
+F BRS_Rope_Small_Pulls_Thru_Nylon.wav 1586032 0 1603185501
+D a "Big Room Sound" g Movement c "Rope,Small,Pulls,Thru Nylon" d "Rope,Small,Pulls,Thru Nylon"
+F BRS_Rope_Twine_Tension_Creaks.wav 7479640 0 1604308904
+D a "Big Room Sound" g Movement c Rope,Twine,Tension,Creaks d Rope,Twine,Tension,Creaks
+F BRS_Wood_Cracking_Plywd_Lite_4.wav 1412780 0 1604309066
+D a "Big Room Sound" g Movement c "Wood,Cracking,Plywood,Lite 4" d "Wood,Cracking,Plywood,Lite 4"
+F BRS_Wood_Moves_Furniture_Lrg.wav 4005632 0 1542100346
+D a "Big Room Sound" g Movement c "dSCENE=  dTAKE=  dTAPE=  dNOTE=Wood,Moves,Furniture,Large  " d "dSCENE=  dTAKE=  dTAPE=  dNOTE=Wood,Moves,Furniture,Large  "
+F BRS_Wood_Splinter_Plywd_Fst_6.wav 1013236 0 1604309066
+D a "Big Room Sound" g Movement c "Wood,Splinter,Plywood,Fast 6" d "Wood,Splinter,Plywood,Fast 6"

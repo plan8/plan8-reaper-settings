@@ -1,0 +1,113 @@
+C10010
+F BaseballBatHitBall_SFXB.3_1.wav 76844 0 1554883307
+D d "Baseball, Bat, Hit, Ball"
+F BaseballBatMetal_S08SP.13.wav 624156 0 1554883307
+D d "Baseball, Bat, Metal, Swing, Hit, Baseball, Ring"
+F BaseballBatMetal_S08SP.15.wav 301004 0 1554883315
+D d "Baseball, Bat, Metal, Throw, Land, Grass"
+F BaseballBatMetal_S08SP.44.wav 571852 0 1554883316
+D d "Baseball, Metal, Bat, Drop, On, Cement, Baseball"
+F BaseballBatWood_S08SP.21.wav 322684 0 1554883308
+D d "Baseball, Bat, Wood, Swing, Hit, Baseball, Light"
+F BaseballBatWood_S08SP.24.wav 131692 0 1554883315
+D d "Baseball, Bat, Wood, Swing, Whoosh"
+F BaseballBatWood_S08SP.25.wav 165628 0 1554883307
+D d "Baseball, Bat, Wood, Throw, Land, Clunk"
+F BaseballBatWood_S08SP.26.wav 159468 0 1554883316
+D d "Baseball, Bat, Wood, Throw, Land, Grass"
+F BaseballGloveCatch_BW.47620.wav 350428 0 1554883307
+D d "Baseball Glove Catch"
+F BasketballBounce_AP1.1290.wav 519180 0 1554883306
+D d "Basketball, Bounce"
+F BasketballBounce_S08SP.48.wav 405388 0 1554883306
+D d "Basketball, Bounce, Gym, Floor"
+F BasketballBounce_S08SP.53.wav 762124 0 1553873914
+D d "Basketball, Bounce, Single"
+F BasketballBounce_SFXB.3884.wav 215260 0 1553873912
+D d "Basketball, Bounce, Single"
+F BasketballGame_S08SP.68.wav 7877532 0 1554883306
+D d "Basketball, Game, Ball, Bounce, Hard, Shoot, Shoe, Squeaks"
+F BasketballShoes_S08SP.82.wav 104348 0 1547716621
+D d "Basketball, Shoes, Scuff, Gym, Floor, Squeak, Twice"
+F BasketballShoes_S08SP.83.wav 122860 0 1547716618
+D d "Basketball, Shoes, Sneakers, Scuff, Gym, Floor, Squeak"
+F BicycleBellRing_S08SP.112.wav 553036 0 1568195050
+D d "Bicycle, Bell, Ring, Low, Bike"
+F CarabinerClick_HV.129.wav 221052 0 1554883308
+D d "Carabineer Click On Harness"
+F CrowdArenaChatter_S08SP.220.wav 6994172 0 1590133785
+D d "Crowd, Arena, Chatter"
+F CrowdArenaChatter_S08SP.221.wav 10439292 0 1599574767
+D d "Crowd, Arena, Chatter"
+F CrowdArenaCheer_S08SP.222.wav 12666428 0 1554883333
+D d "Crowd, Arena, Cheer, Defense"
+F CrowdArenaCheer_S08SP.223.wav 12032780 0 1554924037
+D d "Crowd, Arena, Cheer, Long, Oh"
+F CrowdArenaCheer_S08SP.224.wav 8889052 0 1550587710
+D d "Crowd, Arena, Cheer, Stomp"
+F CrowdArenaOh_S08SP.219.wav 1152748 0 1554883347
+D d "Crowd, Arena, Big, Oh"
+F CrowdArenaYeah_S08SP.227.wav 2398588 0 1554883343
+D d "Crowd, Arena, Yeah, Oh"
+F CrowdBooBaseball_SEU02.13.wav 5834604 0 1554883346
+D d "Crowd, Boo, Baseball, Game"
+F CrowdBooBaseball_SFXB.3918.wav 12094892 0 1554883347
+D d "Crowd, Boo, Baseball, Game"
+F FishingRod_S011SP.155.wav 1380364 0 1548662330
+D d "Fishing, Rod, Reel, Clicks"
+F FishingRodReelIn_SFXB.3937.wav 738348 0 1553178499
+D d "Fishing, Rod, Reel, In, Line, Short"
+F FlyFishingReelPull_SFXB.3_1.wav 1027580 0 1548662331
+D d "Fly, Fishing, Reel, Pull, Short, Slow"
+F FootballCatch_S011SP.161.wav 608556 0 1548688285
+D d "Football, Receiver, Catch, Grab, Pass"
+F FootballPractice_SFXB.68.wav 69296684 0 1548688632
+D d "Ambience, Football, Practice, High, School, Sports"
+F FootballTackleHard_SFXB.395.wav 489116 0 1554883315
+D d "Football, Tackle, Hard, Grunt"
+F FootballTackleImpact_SFXB.3.wav 322956 0 1554883305
+D d "Football, Tackle, Impact"
+F FootballTackleImpact_SFXB_1.wav 316796 0 1554883305
+D d "Football, Tackle, Impact"
+F FootballVoice_S08SP.317.wav 858236 0 1548688273
+D d "Football, Voice, Clip, High, School, Referee, Pa, Touchdown"
+F GolfClubSwing_S08SP.411.wav 313724 0 1548690678
+D d "Golf, Metal, Driver, Swing, Whoosh, Shoe, Movement, Mud, Squish"
+F GolfClubSwing_S08SP.413.wav 122412 0 1570696738
+D d "Golf, Wood, Driver, Swing, Whoosh"
+F GymnasticsMat_S011SP.299.wav 645628 0 1547716513
+D d "Gymnastics, Mat, Land, Body, Fall, From, Jump"
+F GymnasticsMat_S011SP.302.wav 694604 0 1547715702
+D d "Gymnastics, Mat, Land, From, Jump"
+F GymnasticsRun_S011SP.303.wav 1989564 0 1547715685
+D d "Gymnastics, Run, On, Floor, Mat"
+F HockeyPlayerMove_S08SP.464.wav 1451372 0 1554883312
+D d "Hockey, Player, Movement, Hard, Stop"
+F HockeyPuck_S011SP.315.wav 4998252 0 1554883310
+D d "Hockey, Puck, Dribble, Stationary, Indoor, Ice, Rink"
+F HockeyPuck_S011SP.322.wav 2007980 0 1554883309
+D d "Hockey, Puck, Hit, Glass, Bounce"
+F HockeyPuckImpact_S08SP.481.wav 2359404 0 1550138657
+D d "Hockey, Puck, Slam, Into, Boards, Opposite, Side, Of, Glass, Impact"
+F HockeySlapShot_S08SP.489.wav 2081676 0 1554883305
+D d "Hockey, Slap, Shot, Puck"
+F HockeyStickHit_S08SP.499.wav 1119164 0 1554883312
+D d "Hockey, Stick, Hit, Puck, Shot, Reverb"
+F IceSkating_S011SP.367.wav 17738812 0 1554883314
+D d "Ice, Skating, Amateur, Indoor, Ice, Rink"
+F MotorcycleDrag_S011SP.388.wav 15745612 0 1542100891
+D d "Motorcycle, Rev, Dray, Away, Two, Bikes"
+F RaceCarPassBy_SEU01.45.wav 7019020 0 1554883303
+D d "Grand, Prix, Race, Car, Pass, By"
+F SoccerBallKick_S011SP.490.wav 196012 0 1554883312
+D d "Soccer, Ball, Kick"
+F SoccerBallKick_SFXB.4008.wav 264268 0 1555500617
+D d "Soccer, Ball, Kick"
+F SoccerBallKickHard_SFXB.401.wav 227564 0 1548691387
+D d "Soccer, Ball, Kick, Hard"
+F SoccerBallRoll_SEU02.44.wav 1026492 0 1554883306
+D d "Soccer, Ball, Roll"
+F TreadmillFast_BW.61897.wav 179961308 0 1604308935
+D d "Treadmill On, Run, Off Run Fast"
+F WhistleBlow_S011SP.517.wav 1657068 0 1604308880
+D d "Whistle, Blow, Long"
